@@ -38,22 +38,27 @@ kさんから非公式課題を頂いた。
 まずはbash
 
 
-+++?code=2.sh
++++?code=1.sh
 
 
 +++
 
 versin 2
 
-+++?code=1.sh
++++?code=2.sh
+
+
++++
 
 kさんの場合
+
++++?code=konsan.sh
 
 ---
 
 続いてperl
 
-+++?code=4.pl
++++?code=3.pl
 
 ---
 
@@ -63,6 +68,10 @@ bash：
 bash_v2：
 bash_k：
 perl：
+
+---
+
+待てよ
 
 ---
 
