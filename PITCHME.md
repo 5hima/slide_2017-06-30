@@ -64,10 +64,10 @@ kさんの場合
 
 ###速度比較
 
-bash：
-bash_v2：
-bash_k：
-perl：
+bash：  
+bash_v2：  
+bash_k：  
+perl：  
 
 ---
 
