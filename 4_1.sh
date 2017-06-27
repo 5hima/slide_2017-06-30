@@ -1,7 +1,3 @@
-#!/bin/bash
-
-set -eu
-
 #one liner
 cat $1 | awk '
 BEGIN{
