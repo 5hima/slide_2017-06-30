@@ -68,14 +68,41 @@ kさんの場合
 bash：  
 bash_v2：  
 bash_k：  
-perl：  
+perl：
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 +++
 
+###速度比較(計測済み)
+
 bash：3m37.908  
 bash_v2：3m0.517  
-bash_k：  
-perl：  
+bash_k：2m35.883  
+perl：0m0.385
+
++++
+
+###速度比較(計測済み)
+
+bash：3m37.908  
+bash_v2：3m0.517  
+bash_k：2m35.883  
+perl：0m0.385  
+oneliner：0m0.168
 
 ---
 
