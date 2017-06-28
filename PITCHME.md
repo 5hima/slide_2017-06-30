@@ -65,7 +65,7 @@ kさんの場合
 
 ###速度比較
 
-bash：  
+bash：3m29.024  
 bash_v2：  
 bash_k：  
 perl：
