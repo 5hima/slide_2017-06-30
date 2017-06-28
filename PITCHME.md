@@ -70,6 +70,13 @@ bash_v2：
 bash_k：  
 perl：  
 
++++
+
+bash：  
+bash_v2：  
+bash_k：  
+perl：  
+
 ---
 
 待てよ
