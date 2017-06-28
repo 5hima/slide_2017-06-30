@@ -72,8 +72,8 @@ perl：
 
 +++
 
-bash：  
-bash_v2：  
+bash：3m37.908  
+bash_v2：3m0.517  
 bash_k：  
 perl：  
 
